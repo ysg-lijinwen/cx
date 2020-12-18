@@ -65,7 +65,7 @@ plugins: ./plugins
 
 web:
   # 管理后台网站标题
-  title: 开利软件
+  title: 乐心瑶软件
   # comment out to disable gravatar support
   # gravatar: false
   # by default packages are ordercer ascendant (asc|desc)

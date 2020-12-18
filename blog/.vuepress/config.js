@@ -103,7 +103,7 @@ module.exports = {
       },
       {
         text: 'Gitlab',
-        link: 'https://github.com/ysg-lijinwen'
+        link: 'https://github.com/ysg-lijinwen/cx'
       }
     ],
     //站点底部注脚
