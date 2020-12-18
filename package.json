@@ -1,0 +1,20 @@
+{
+  "name": "ctd",
+  "version": "1.0.0",
+  "description": "北京开利软件有限公司-研发部技术文章分享",
+  "main": "index.js",
+  "repository": "http://192.168.2.213:8080/platform/doc/ctd.git",
+  "author": "李金文 <lijinwen@carleagroup.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.5.4",
+    "@vuepress/plugin-back-to-top": "^1.5.4",
+    "@vuepress/theme-blog": "^2.3.2",
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "blog:dev": "vuepress dev blog",
+    "blog:build": "vuepress build blog"
+  }
+}
